@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Bubblegum+Sans');
+
+h1.header {
+  text-align: center;
+  padding-top: 30px;
+  font-weight: 700;
+  font-size: 3rem;
+  color: #2e3032;
+  font-family: 'Bubblegum Sans', cursive;
+}

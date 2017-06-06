@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps');
+body {
+  background: url('assets/img/concrete-texture.png');
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size: 25px;
+}
